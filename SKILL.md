@@ -1,6 +1,8 @@
 ---
 name: ui-principles
 description: 18 numbered design principles that decide what goes on a screen, how it behaves, and how it looks. Use when designing or building a surface or control, when reviewing or critiquing an interface, or when choosing between two UI options.
+metadata:
+  version: 1.0.0
 ---
 
 # UI principles
